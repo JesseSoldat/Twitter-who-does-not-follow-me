@@ -1,5 +1,5 @@
 {
-  "name": "twitter",
+  "name": "twitter-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,5 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
 }
